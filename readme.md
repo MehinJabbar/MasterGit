@@ -1,8 +1,6 @@
-## Hello, Git
+## Welcome to Git
 
---- I'm adding branch 
-'feature-branch'
---- I'm adding branch 
-'feature-branch'
+--- new line!
+--- it's good!!
 --- I'm adding branch 
 'feature-branch'
