@@ -1,6 +1,6 @@
 ## Welcome to Git
 
---- new line!
---- it's good!!
+--- What is that?
+--- Add commit messages to readme.md
 --- I'm adding branch 
 'feature-branch'
