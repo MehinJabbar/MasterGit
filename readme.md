@@ -1,6 +1,6 @@
 ## Welcome to Git
 
---- new line!
---- it's good!!
+--- Comment on!
+--- Testing resolve conlict issue
 --- I'm adding branch 
 'feature-branch'
