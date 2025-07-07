@@ -1,6 +1,6 @@
 ## Welcome to Git
 
---- What is that?
+--- Testing resolve conlict issue
 --- Add commit messages to readme.md
 --- I'm adding branch 
 'feature-branch'
